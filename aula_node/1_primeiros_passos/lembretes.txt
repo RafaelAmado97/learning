@@ -1,0 +1,34 @@
+Lembretes:
+
+* Não utilizar nome com acento e espaço em branco nos nomes dos arquivos e nomes variável;
+* Usar mais parênteses não usa mais memória;
+* Em operações matemáticas podemos utilizar quantos parênteses quiser para agrupar contas;
+* Letras minúsculas e maiúsculas fazem diferença;
+
+
+Termos:
+
+Variável 
+Utilizado para guardar valores que serão utilizados mais tarde.
+
+Constante
+Não pode mudar de valor se for mudar o endereço na memória.
+Mas se for um objeto, pode mudar suas propriedades.
+
+
+Memória RAM
+Local para guardar informações que não persistem após o fechamento da aplicação.
+Guarda informações binárias, 0 ou 1 apenas, e o endereçamento de tudo.
+
+While
+Loop que significa "enquanto", e enquanto o que estiver nos parênteses for verdadeiro, ele executa o que está dentro das {}
+Cuidado, pode resultar num loop infinito.
+
+for
+
+Pode fazer um loop tanto em objetos quanto em uma quantidade determinada
+For em ingl~es significa "para"
+
+OBJETOS
+
+JSON é uma forma de representar objetos em forma de texto
